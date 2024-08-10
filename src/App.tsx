@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import CardList from "./components/CardList";
 import { ApiData } from "./lib/types";
-import Header from "./Header";
 import clsx from "clsx";
+import Header from "./components/Header";
 
 export default function App() {
   // state

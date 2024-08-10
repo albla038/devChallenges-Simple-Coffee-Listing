@@ -1,4 +1,4 @@
-import ButtonNav from "./components/ButtonNav";
+import ButtonNav from "./ButtonNav";
 
 type ButtonNavProps = {
   handleButtonClick: (id: string) => void;
